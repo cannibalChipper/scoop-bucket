@@ -1,0 +1,18 @@
+{
+    "version": "20230625",
+    "description": "Preconfigured MPV for anime",
+    "homepage": "https://github.com/cannibalChipper/mpv",
+    "license": "LGPL-2.1-or-later,GPL-2.0-or-later",
+    "notes": [
+        "To set and unset file type associations and AutoPlay handlers, run '$dir\\installer\\mpv-install.bat' and '$dir\\installer\\mpv-uninstall.bat' as administrator, respectively.",
+        "Based on https://thewiki.moe/tutorials/mpv",
+        "Uses default OSC"
+    ],
+    "suggest": {
+        "yt-dlp": "yt-dlp"
+    },
+    "url": "https://github.com/cannibalChipper/mpv/releases/download/v20230625/mpv-default.7z",
+    "hash": "c4fec9e368f8198db43ce022c3cc70107808e3f0f4b7890c78f9441ae954f966",
+    "extract_dir": "mpv-default",
+    "bin": "mpv.exe"
+}
