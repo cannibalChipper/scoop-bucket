@@ -17,6 +17,7 @@
             "hash": "b6777575b2a4ca1a6b5ae332f7ad659f99e55114c2d3374f18fc7894cf6fd64f"
         }
     },
+    "extract_dir": "mpv-default"
     "pre_install": "Remove-Item \"$dir\\updater.bat\"",
     "env_add_path": ".",
     "shortcuts": [
