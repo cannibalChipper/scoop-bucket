@@ -12,7 +12,7 @@
         "yt-dlp": "yt-dlp"
     },
     "url": "https://github.com/cannibalChipper/mpv/releases/download/v20230625/mpv-default.7z",
-    "hash": "c4fec9e368f8198db43ce022c3cc70107808e3f0f4b7890c78f9441ae954f966",
+    "hash": "b6777575b2a4ca1a6b5ae332f7ad659f99e55114c2d3374f18fc7894cf6fd64f",
     "extract_dir": "mpv-default",
     "bin": "mpv.exe"
 }
